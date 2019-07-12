@@ -1,0 +1,4 @@
+io/pivotal/workshop/config/AppConfig.class
+io/pivotal/workshop/config/SpringMvcDispatcherServletInitializer.class
+io/pivotal/workshop/model/HelloWorld.class
+io/pivotal/workshop/controller/HelloWorldController.class
